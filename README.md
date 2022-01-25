@@ -1,4 +1,4 @@
-# 'PROJECT 3 FALL 2019'-linhv
+# 'FALL 2019 PROJECT 3' - linhv
 	DateTimeOne Class
 		- Use LocalDateTime with method getSecond() to get the value of second now
 		- Use Calendar and SimpleDateFormat to get current date/time with format MM/dd/yyyy HH:mm a
